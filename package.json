@@ -1,0 +1,24 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "https://clojurescript.org/guides/javascript-modules",
+  "main": "main.js",
+  "dependencies": {
+    "@cljs-oss/module-deps": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipesilva/cljs-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipesilva/cljs-modules/issues"
+  },
+  "homepage": "https://github.com/filipesilva/cljs-modules#readme"
+}
